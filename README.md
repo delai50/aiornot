@@ -5,7 +5,7 @@ This repository contains the Pytorch Lightning pipeline used in the *aiornot* Hu
 The solution description can be found here: https://huggingface.co/spaces/competitions/aiornot/discussions/31.
 
 ***
-### Folder structure for future projects
+### Folder structure
 ```
 project name    
 │
